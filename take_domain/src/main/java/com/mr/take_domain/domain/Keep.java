@@ -1,4 +1,4 @@
-package com.mr.take_domain.pojo;
+package com.mr.take_domain.domain;
 
 import lombok.Data;
 
