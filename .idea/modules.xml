@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/take.iml" filepath="$PROJECT_DIR$/.idea/take.iml" />
+      <module fileurl="file://$PROJECT_DIR$/take_domain/take_domain.iml" filepath="$PROJECT_DIR$/take_domain/take_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/take_eureka/take_eureka.iml" filepath="$PROJECT_DIR$/take_eureka/take_eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/take_history/take_history.iml" filepath="$PROJECT_DIR$/take_history/take_history.iml" />
+      <module fileurl="file://$PROJECT_DIR$/take_order/take_order.iml" filepath="$PROJECT_DIR$/take_order/take_order.iml" />
+    </modules>
+  </component>
+</project>
