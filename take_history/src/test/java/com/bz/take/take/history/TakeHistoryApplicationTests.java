@@ -1,4 +1,4 @@
-package com.bz.take.take_history;
+package com.bz.take.take.history;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

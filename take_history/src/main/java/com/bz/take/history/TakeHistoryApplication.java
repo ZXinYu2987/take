@@ -1,4 +1,4 @@
-package com.bz.take.take_history;
+package com.bz.take.history;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
